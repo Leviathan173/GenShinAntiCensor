@@ -8,7 +8,7 @@
 ## 简介
 项目分为bat脚本与GUI版本，可以选择喜欢的版本使用，GUI版本的功能会更加完善  
 [bat版本](https://github.com/Leviathan173/GenShinAntiCensor/tree/main/WinBat)  
-[GUI版本](https://github.com/Leviathan173/GenShinAntiCensor/tree/main/AntiCensorGUI)
+[GUI版本](https://github.com/Leviathan173/GenShinAntiCensor/tree/main/AntiCensorGUI)（制作中）
 
 ## TODO
 C#实现  
