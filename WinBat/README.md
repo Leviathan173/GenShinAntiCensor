@@ -10,7 +10,7 @@
 
 ## 使用说明
 使用记事本或者其他文本编辑器打开`ys.bat`修改`gameSrc`到你的游戏目录  
-<small>*为了目录尽量短，`gameSrc`指向运行程序的目录*</small>
+<small>*为了目录尽量短，`gameSrc`指向运行程序的目录*</small>  
 注意目录是到`YuanShen.exe`的目录，如你的目录是这样`D:\Game\原神\Genshin Impact\Genshin Impact Game\YuanShen.exe`  
 那么你的`gameSrc`就应该是`D:\Game\原神\Genshin Impact\Genshin Impact Game\`，最后一个斜线一定要  
 
